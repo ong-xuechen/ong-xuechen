@@ -6,7 +6,7 @@
 <p>
 <p align="left"><img src="https://komarev.com/ghpvc/?username=ong-xuechen&label=Profile%20views&color=0e75b6&style=flat" alt="ong-xuechen" /> </p>
 
-- 🔭 I’m currently working on: **Facial Recognition Attendance System**
+- 🔭 I’m currently working on: **Facial Recognition Attendance System** and **SafeEncDecryptionWebsite**!
 - 📫 You can reach me through my email, at **ongxuechen@outlook.com**!
 
 <h3 align="left">Connect with me:</h3>
